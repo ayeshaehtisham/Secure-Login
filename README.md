@@ -24,7 +24,7 @@ The project uses client-side scripting to simulate secure login behavior and sub
 - Success or error messages are displayed based on the result.
 
 **Screenshot:**
-![Project Screenshot](https://github.com/ayeshaehtisham/Secure-Login/raw/main/images/ProjectScreenshot.jpeg)
+![Project Screenshot](images/Project%20Screenshot.jpeg)
 
 **Acknowledgements:**
 - This project uses https://httpbin.org/post for testing API requests.
